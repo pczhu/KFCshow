@@ -1,0 +1,19 @@
+{
+  "name": "kfcshow",
+  "version": "1.0.0",
+  "description": "show me the kfc food",
+  "main": "index.android.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/React-native/local-cli/cli.js start"
+  },
+  "keywords": [
+    "135047"
+  ],
+  "author": "pczhu",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.4.0",
+    "react-native": "^0.37.0"
+  }
+}
